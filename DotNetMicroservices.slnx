@@ -54,6 +54,6 @@
     <File Path="../../../Downloads/Compressed/Web/README.md" />
     <File Path="../../../Downloads/Compressed/Web/yarn.lock" />
   </Folder>
-  <Project Path="../../../Downloads/Compressed/AgentPortalApiGateway/AgentPortalApiGateway.csproj" />
-  <Project Path="../../../Downloads/Compressed/BlazorWasmClient/BlazorWasmClient.csproj" />
+  <Project Path="AgentPortalApiGateway/AgentPortalApiGateway.csproj" />
+  <Project Path="BlazorWasmClient/BlazorWasmClient.csproj" />
 </Solution>
